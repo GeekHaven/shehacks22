@@ -96,7 +96,7 @@
     });
 
     // count_dwon
-    $('#clock').countdown('2021/03/12, 18:30:00', function (event) {
+    $('#clock').countdown('2022/03/11, 18:30:00', function (event) {
       $(this).html(event.strftime('<div class="countdown_time"><div class="single_countdown"><h3>%D</h3><span>days</span></div><div class="single_countdown"><h3>%H</h3><span>Hours</span></div><div class="single_countdown"><h3>%M</h3><span>Minutes</span></div><div class="single_countdown"><h3>%S</h3><span>Seconds</span></div></div>'));
     });
 
