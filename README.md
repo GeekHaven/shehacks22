@@ -1,5 +1,5 @@
-# SheHacks'21
-Welcome to the official website of **SheHacks'21**, The Biggest Female Hackathon of the Year 2021. The website can be checked out [here](https://shehacks.tech/).
+# SheHacks'22
+Welcome to the official website of **SheHacks'22**, The Biggest Female Hackathon of the Year 2022. The website can be checked out [here](https://shehacks.co/).
 
 ## Contributors
 - [Abhishek Singh](https://github.com/abhiandthetruth)
